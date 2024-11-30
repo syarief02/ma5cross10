@@ -3,6 +3,10 @@
 ## Overview
 The MA5 Crossover EA is a trading algorithm designed for MetaTrader 4 that implements a moving average crossover strategy using a 5-period and a 10-period moving average. This EA is suitable for trading on the M5 timeframe and is recommended for ranging currency pairs.
 
+## Download
+You can download the compiled EA from the following link:
+- [Download ma5cross10 EA](https://github.com/syarief02/ma5cross10/raw/refs/heads/main/ma5cross10.ex4)
+
 ## Features
 - **Moving Average Crossover**: The EA uses a 5-period moving average (MA5) and a 10-period moving average (MA10) to determine buy and sell signals based on their crossover.
 - **Customizable Parameters**: Users can adjust the lot size, slippage, take profit, and stop loss levels.
@@ -35,3 +39,4 @@ This EA is provided for educational and informational purposes. Use it at your o
 ## Disclaimer
 Trading in financial markets involves risk and may not be suitable for all investors. Ensure you understand the risks involved and seek independent advice if necessary.
 # ma5cross10
+
